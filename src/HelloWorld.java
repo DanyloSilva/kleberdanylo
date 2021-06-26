@@ -1,3 +1,4 @@
+import java.util.Iterator;
 
 public class HelloWorld {
 
@@ -5,7 +6,10 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 System.out.println("tudo e um e um e tudo");
 System.out.println("Mas a soma de tudo e 0");
-System.out.println("tudo e um e um e tudo");
+for(int i = 0;i>5 ;++i) {
+	System.out.println("tudo e um e um e tudo");
+
+}
 
 	}
 
